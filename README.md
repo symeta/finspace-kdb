@@ -46,3 +46,6 @@
    - [Managing kdb Users](https://docs.aws.amazon.com/finspace/latest/userguide/finspace-managed-kdb-users.html)
 - [Managing environment network settings](https://docs.aws.amazon.com/finspace/latest/userguide/manage-environment-network.html)
    - TGW and DNS setup
+
+### Workshop
+- [FinSpace with Managed kdb Insights Foundations Workshop](https://workshops.aws/card/finspace)
