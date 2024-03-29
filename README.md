@@ -21,7 +21,7 @@
 ### AWS What’s New Posts
 - [FinSpace with Managed kdb Insights now works with TorQ framework (Dec, 2023)](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-torq-framework/)
 - [FinSpace with Managed kdb Insights now available in five additional regions (Oct 24, 2023)](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-finspace-managed-kdb-insights-five-regions/)
-- [FinSpace with Managed kdb Insights adds more historical database cache options (Oct 25, 2023)](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-finspace-managed-kdb-insights-cache-options/) (Oct 25, 2023)
+- [FinSpace with Managed kdb Insights adds more historical database cache options (Oct 25, 2023)](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-finspace-managed-kdb-insights-cache-options/)
 - [FinSpace with Managed kdb Insights clusters now supports cade updates without restarting (Oct 31, 2023)](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-finspace-managed-kdb-insights-clusters-code-updates/)
 - [FinSpace with Managed kdb Insights now supports a wider set of customer kdb applications (Dec 4, 2023)](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-customer-applications/)
 
@@ -35,7 +35,7 @@
 - [Github: TorQ FinSpace Starter Pack (Data Intellect)](https://github.com/DataIntellectTech/TorQ-Amazon-FinSpace-Starter-Pack/tree/master)
 
 ### Terraform
-- [Terraform: release v5.2.0 (1st release with managed kdb](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.2.0)
+- [Terraform: release v5.2.0 (1st release with managed kdb)](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.2.0)
 
 ### Environment Setup Resources
 - [Permissions required for Managed kdb](https://docs.aws.amazon.com/finspace/latest/userguide/permissions-managed-kdb.html)
